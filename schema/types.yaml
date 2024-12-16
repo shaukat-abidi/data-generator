@@ -1,0 +1,16 @@
+string:
+  type: str
+integer:
+  type: int
+float:
+  type: float
+boolean:
+  type: bool
+date:
+  type: date
+time:
+  type: time
+datetime:
+  type: datetime
+none:
+  type: None
